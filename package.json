@@ -1,0 +1,12 @@
+{
+  "name": "webmcp-bridge",
+  "version": "3.0.0",
+  "description": "WebMCP Bridge - Make.com to Claude AI",
+  "main": "bridge.js",
+  "scripts": {
+    "start": "node bridge.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
